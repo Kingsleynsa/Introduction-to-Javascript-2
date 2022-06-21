@@ -1,0 +1,5 @@
+a:hover { color: red;
+font-size: 18px; }
+footer { border: 20px; border-width:50cm; background-color: rgb(216, 216, 250); color: rgb(238, 255, 0); font-style: oblique;font-weight: bold; font-size: 50px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, ; font-variant: small-caps ;} 
+img{ width: 25%; height: 320px; border-radius: 75%;} 
+body{background-image: url(https://1.bp.blogspot.com/-6YDEUboBazM/X8Zg62NY7NI/AAAAAAAAdCI/cNXcLNy1JCsTaRZtSIjEN1Wx5udO0qfRQCLcBGAsYHQ/w296-h640/V3-12012020MINIMAL-LAKE-hd.png); background-size: cover;}
